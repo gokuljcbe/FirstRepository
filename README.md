@@ -18,3 +18,11 @@ git commit -m "Added description about repository"
 
 git push
 
+git reset --hard
+
+git push
+
+git pull
+
+cat README.md
+
