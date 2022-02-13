@@ -26,3 +26,4 @@ git pull
 
 cat README.md
 
+checking jenkins
